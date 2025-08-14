@@ -1,0 +1,13 @@
+fallback: "https://link.da/imagem/generica.png"
+
+planeta:
+  Mercurio: "https://link.da/imagem.png"
+  Venus: "https://link.da/imagem.png"
+  Terra: "https://link.da/imagem.png"
+  Marte: "https://link.da/imagem.png"
+  Jupiter: "https://link.da/imagem.png"
+  Saturno: "https://link.da/imagem.png"
+  Urano: "https://link.da/imagem.png"
+  Netuno: "https://link.da/imagem.png"
+  Lua: "https://link.da/imagem.png"
+  Sol: "https://link.da/imagem.png"

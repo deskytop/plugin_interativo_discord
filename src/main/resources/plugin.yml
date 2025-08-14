@@ -1,0 +1,9 @@
+name: DeathWarn
+version: 1
+main: com.desky.deathwarn.DeathWarn
+api-version: 1.20
+commands:
+  deathwarn:
+    description: Comando para recarregar o plugin DeathWarn
+    usage: /<command> reload
+    permission: deathwarn.reload
